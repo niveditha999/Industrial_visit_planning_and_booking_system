@@ -13,7 +13,7 @@
     </head>
     <style>
         body{
-            background-image: url(images/login1.jpg);
+            background-image: url(login1.jpg);
         }
     </style>
     <body>
@@ -83,7 +83,7 @@ $result=mysqli_query($con,$sql)or die($con);
         <td><?php echo $em; ?></td>
         
         
- <!--<td>  <a href="delet.php?Delete=<?php echo $eid; ?>" onclick="return confirm('Are you sure you wanna delete this?');"><img src="images/delete1.png" width="30"></a>
+ <!--<td>  <a href="delet.php?Delete=<?php echo $eid; ?>" onclick="return confirm('Are you sure you wanna delete this?');"><img src="delete1.png" width="30"></a>
  </td>-->
         </tr>
            
