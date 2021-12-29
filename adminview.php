@@ -9,7 +9,7 @@
        <!-- <link rel="stylesheet" type="text/css" href="about.css">-->
     <style>
         body{
-            background-image: url(images/login1.jpg);
+            background-image: url(login1.jpg);
         }
         p{
             font-size: 50px;
