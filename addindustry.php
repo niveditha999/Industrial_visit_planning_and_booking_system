@@ -8,7 +8,7 @@
         <link rel="stylesheet" type="text/css" href="addindustry.css">
          <style>
         body{
-            background-image: url(images/iimage2.jpg);
+            background-image: url(iimage2.jpg);
             background-size: cover;
             
             
