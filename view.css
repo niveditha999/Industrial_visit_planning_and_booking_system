@@ -1,0 +1,21 @@
+table,td{
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+    font-style: italic;
+    font-family: cursive;
+    padding: 15px;
+    border-color: burlywood;
+    border-spacing: 1px;
+    width: 500px;
+    
+}
+
+.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+.lf
+{
+    color:azure;
+}
