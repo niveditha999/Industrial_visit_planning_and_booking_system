@@ -6,7 +6,7 @@
         <link rel="stylesheet" type="text/css" href="main.css">
         <style>
             body{
-                background-image: url(images/login1.jpg);
+                background-image: url(login1.jpg);
             }
         </style>
         
@@ -26,7 +26,7 @@
         </div>
         <form method="post" >
         <div class="admin">
-            <img src="images/avatar.png" class="avatar">
+            <img src="avatar.png" class="avatar">
             <h1>Admin Login</h1>
             <form>
             <p>Username</p>
