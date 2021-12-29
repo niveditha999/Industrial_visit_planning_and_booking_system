@@ -15,7 +15,7 @@
     </head>
     <style>
         body{
-            background-image: url(images/login1.jpg);
+            background-image: url(login1.jpg);
         }
     </style>
     <body>
